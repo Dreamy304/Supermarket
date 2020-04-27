@@ -1,0 +1,1 @@
+window.location.href=(token!=null)?'main.html':'login.html'
